@@ -1,5 +1,5 @@
 # Project Name
-> Outline a brief description of your project.
+> Lending Club Case study 
 
 
 ## Table of Contents
@@ -11,10 +11,10 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- Analyze the Data and identify correlation among various attributes by Applying learnings from EDA module on dataset from "Lending Club".
+- Background of your project: Develop a basic understanding of risk analytics in banking and financial services and understand how data is used to minimise the risk of losing money while lending to customers.
+- Business probem that this project is trying to solve: understand how consumer attributes and loan attributes influence the tendency of default.
+- Datset Used: Loan CSV dataset from LendingClub
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
@@ -28,9 +28,11 @@
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+Below Python modules used in this case study
+- numpy
+- pandas
+- matplotlib
+- seaborn
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
@@ -42,7 +44,7 @@ Give credit here.
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@JPHere007] - feel free to contact me!
 
 
 <!-- Optional -->

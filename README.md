@@ -19,10 +19,10 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+ 1. Majority of 'Charged Off' loans belongs to Loan Grade B, C or D
+ 2. People who are paying 'collection_recovery_fee' are more likely to get ino 'Charged Off' the loan
+ 3. People who have Derogatory pulic records are more likely to get ino 'Charged Off' the loan
+ 4. People with dti ratio lies b/w 10 to 20 are likely to 'Charged Off' the loan
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 

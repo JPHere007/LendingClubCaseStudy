@@ -19,10 +19,13 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
- 1. Majority of 'Charged Off' loans belongs to Loan Grade B, C or D
- 2. People who are paying 'collection_recovery_fee' are more likely to get ino 'Charged Off' the loan
- 3. People who have Derogatory pulic records are more likely to get ino 'Charged Off' the loan
- 4. People with dti ratio lies b/w 10 to 20 are likely to 'Charged Off' the loan
+1.Majority of 'Charged Off' loans belongs to Loan Grade B, C or D
+2.People who are paying 'collection_recovery_fee' are more likely to get into 'Charged Off' the loan
+3.People who have Derogatory public records are more likely to get into 'Charged Off' the loan
+4.People with dti ratio lies b/w 10 to 20 are likely to 'Charged Off' the loan
+5.People who enquired inquired more than 1 times i.e (columns : inq_last_6mths), in last 6 months have higher probability of defaulting loan
+6.People whose Verification status as ‘Source Verified’ are less likely to default than people with other verifications status
+
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
@@ -46,6 +49,7 @@ Give credit here.
 ## Contact
 Created by [@JPHere007] - feel free to contact me!
 
+### team members: Jayaprakash & Dhaneesh
 
 <!-- Optional -->
 <!-- ## License -->
